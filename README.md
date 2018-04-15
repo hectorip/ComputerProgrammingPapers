@@ -22,6 +22,15 @@ tema a profundidad, pero son una buena fuente de información y pueden ser una g
 
 - [No silver Bullet](/pdfs/Brooks-NoSilverBullet.pdf)
 
+
+## Artículos muy muy profundos
+
+Estos artículos son si de verdad te interesa conocer las bases teóricas y de implementación más profundas.
+Avanza bajo tu propio riesgo.
+
+- [What Every Computer Scientist Should Know About Floating-Point Arithmetic](/pdfs/floating_point_atihmetic.pdf)
+- [On computable numbers - Alan M. Turing](/pdfs/computable_numbers.pdf)
+- [On the computational complexity of algorithms](/pdfs/on_computational_complexity.pdf)
 ## Artículos varios
 
 - [Software is hard](https://www.eejournal.com/article/20161101-softwareishard/)
