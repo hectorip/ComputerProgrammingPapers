@@ -4,10 +4,18 @@ Collección de Papers y apuntes de los grandes maestros de la ciencia de la comp
 En este repositorió reuniré los papers y artículos clásicos acerca de programción, desarrollo de proyectos, lenguajes de 
 programación, temas fundamentales de las ciencia computacionales etc.
 
+Si estás aprendiendo empieza en el orden en que están las secciones. La mayoría de los recursos son gratuitos, los que no están
+
+## Muy básicos, introducción
+
+Nota sobre los recursos de esta sección: son recursos muy recientes, por autores contemporáneos que pueden o no cubrir el
+tema a profundidad, pero son una buena fuente de información y pueden ser una guía para aprender más.
+
+- Eloquent JavaScript -> [Inglés](http://eloquentjavascript.net/) - [PDF](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) y [Español](http://hectorip.github.io/Eloquent-JavaScript-ES-online/)
 
 ## Básicos
 
-1. [Structure and interpretation of computer programs](/pdfs/sicp.pdf)
+-  [Structure and interpretation of computer programs](/pdfs/sicp.pdf)
 
 
 ## Manejo de proyectos
