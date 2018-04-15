@@ -31,6 +31,7 @@ Avanza bajo tu propio riesgo.
 - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](/pdfs/floating_point_atihmetic.pdf)
 - [On computable numbers - Alan M. Turing](/pdfs/computable_numbers.pdf)
 - [On the computational complexity of algorithms](/pdfs/on_computational_complexity.pdf)
+- [On formally undecidable propositions of Principia Mathematica and related systems I](/pdfs/undecidable.pdf)
 ## Artículos varios
 
 - [Software is hard](https://www.eejournal.com/article/20161101-softwareishard/)
