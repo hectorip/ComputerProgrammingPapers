@@ -7,12 +7,12 @@ programación, temas fundamentales de las ciencia computacionales etc.
 
 ## Básicos
 
-1. 
+1. [Structure and interpretation of computer programs](/pdfs/sicp.pdf)
 
 
 ## Manejo de proyectos
 
-- (No silver Bullet)[/pdfs/Brooks-NoSilverBullet.pdf]
+- [No silver Bullet](/pdfs/Brooks-NoSilverBullet.pdf)
 
 ## Artículos varios
 
