@@ -16,5 +16,13 @@ programación, temas fundamentales de las ciencia computacionales etc.
 
 ## Artículos varios
 
-- (Software is hard)[https://www.eejournal.com/article/20161101-softwareishard/]
+- [Software is hard](https://www.eejournal.com/article/20161101-softwareishard/)
+- [On nature of computer science - E. Dijkstra](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html)
+- [Notes on structured programming - E. Dijkstra](/pdfs/EWD249.pdf)
+<!-- - []() -->
+
+### Habilidades de programadores 
+
+- [We're typists first, programmers second](https://blog.codinghorror.com/we-are-typists-first-programmers-second/)
+- []
 
