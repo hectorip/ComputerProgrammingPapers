@@ -17,6 +17,7 @@ tema a profundidad, pero son una buena fuente de información y pueden ser una g
 
 -  [Structure and interpretation of computer programs](/pdfs/sicp.pdf)
 -  [Intro to algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
+- [Algortithms (paga)](https://algs4.cs.princeton.edu/10fundamentals/)
 
 
 ## Manejo de proyectos
