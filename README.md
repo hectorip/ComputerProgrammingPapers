@@ -25,6 +25,10 @@ tema a profundidad, pero son una buena fuente de información y pueden ser una g
 - [No silver Bullet](/pdfs/Brooks-NoSilverBullet.pdf)
 
 
+## Arquitectura de Software
+- [Software Architecture for Developers ($25USD)](https://leanpub.com/b/software-architecture)
+
+
 ## Artículos muy muy profundos
 
 Estos artículos son si de verdad te interesa conocer las bases teóricas y de implementación más profundas.
