@@ -47,6 +47,7 @@ Avanza bajo tu propio riesgo.
 - [Software is hard](https://www.eejournal.com/article/20161101-softwareishard/)
 - [On nature of computer science - E. Dijkstra](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html)
 - [Notes on structured programming - E. Dijkstra](/pdfs/EWD249.pdf)
+- [Things you should never do, part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/). Por qué nunca deberías pensar que escribir una apliación desde cero es la mejor opción.
 <!-- - []() -->
 
 
