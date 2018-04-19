@@ -27,6 +27,7 @@ tema a profundidad, pero son una buena fuente de información y pueden ser una g
 
 ## Arquitectura de Software
 - [Software Architecture for Developers ($25USD)](https://leanpub.com/b/software-architecture)
+- [Architectural Blueprints—The “4+1” View Model of Software Architecture](/pdfs/4+1view-architecture.pdf)
 
 
 ## Artículos muy muy profundos
