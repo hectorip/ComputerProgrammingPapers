@@ -38,6 +38,9 @@ Avanza bajo tu propio riesgo.
 - [On computable numbers - Alan M. Turing](/pdfs/computable_numbers.pdf)
 - [On the computational complexity of algorithms](/pdfs/on_computational_complexity.pdf)
 - [On formally undecidable propositions of Principia Mathematica and related systems I - Kurt Gödel](/pdfs/undecidable.pdf)
+
+## Programación Funcional
+- [Why Functional Programming Matters](/pdfs/whyfp90.pdf)
 ## Artículos varios
 
 - [Software is hard](https://www.eejournal.com/article/20161101-softwareishard/)
@@ -45,8 +48,8 @@ Avanza bajo tu propio riesgo.
 - [Notes on structured programming - E. Dijkstra](/pdfs/EWD249.pdf)
 <!-- - []() -->
 
+
 ### Habilidades de programadores 
 
 - [We're typists first, programmers second](https://blog.codinghorror.com/we-are-typists-first-programmers-second/)
-- []
 
