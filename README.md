@@ -48,6 +48,7 @@ Avanza bajo tu propio riesgo.
 - [On nature of computer science - E. Dijkstra](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html)
 - [Notes on structured programming - E. Dijkstra](/pdfs/EWD249.pdf)
 - [Things you should never do, part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/). Por qué nunca deberías pensar que escribir una apliación desde cero es la mejor opción.
+- [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 <!-- - []() -->
 
 
