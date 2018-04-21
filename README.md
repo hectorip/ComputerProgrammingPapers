@@ -56,3 +56,11 @@ Avanza bajo tu propio riesgo.
 
 - [We're typists first, programmers second](https://blog.codinghorror.com/we-are-typists-first-programmers-second/)
 
+
+
+### Esenciales para el desarrollo
+
+La mayoría de los libros de esta sección tienen costo.
+
+- [Clean Code](https://www.amazon.com/gp/product/0132350882/)
+- [Practical Object-Oriented Design in Ruby: An Agile Primer](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/)
