@@ -62,8 +62,9 @@ Avanza bajo tu propio riesgo.
 
 La mayoría de los libros de esta sección tienen costo.
 
+- [Design Patterns - GoF](https://www.amazon.com.mx/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [Clean Code](https://www.amazon.com/gp/product/0132350882/)
 - [Practical Object-Oriented Design in Ruby: An Agile Primer](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/)
 - [Domain Driven Design](https://www.amazon.com.mx/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
 - [The Pragmatic Programmer](https://www.amazon.com.mx/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
-- [Design Patterns - GoF](https://www.amazon.com.mx/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [] 
